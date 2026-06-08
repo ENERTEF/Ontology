@@ -1,0 +1,133 @@
+Orignal_results,,,,,,Term,Count
+a local power system connected to or isolated from the main grid.: 1,,power system,operational states,micriogrid,,ambient conditions,1
+adaptive: 1,,adaptive,,,,analysis,2
+affect: 1,,affect,,,,affect,1
+ambient conditions: 1,,ambient conditions,,,,adaptive,1
+analysis of influence factors in power systems.: 1,,analysis,influence,,,asset specific,1
+analysis: 1,,analysis,,,,battery energy storage system,3
+"and sevc scheduling."": 1",,sev scheduling,,,,battery status,1
+assetspecific: 1,,asset specific,,,,building,1
+battery energy storage system.: 1,,battery energy storage system,,,,building energy management system,3
+battery status: 1,,battery status,,,,building-integrated photovoltaics,2
+behindthemeter: 1,,meter,,,,cell,1
+bems: 1,,building energy management system,,,,cim,2
+bess: 1,,Battery Energy Storage System,,,,collected,1
+bess: 1,,Battery Energy Storage System,,,,computational equipment,1
+bipv: 1,,building-integrated photovoltaics,,,,consumption,1
+building energy management system.: 1,,building energy management system,,,,conductor measurement,1
+building-integrated photovoltaics.: 1,,building-integrated photovoltaics,,,,constitute,1
+building: 1,,building,,,,current,1
+cell: 1,,cell,,,,data,1
+cim: 1,,cim,,,,degradtion,1
+collected: 2,,collected,,,,demand,1
+common information model: 1,,cim,,,,demand profiles,1
+"communication protocol information."": 1",,protocol,content,,,demand response,3
+"computational equipment."": 1",,computational equipment,,,,demand side management,3
+conductor measurements: 1,,conductor ,measurement,,,diagnostics,1
+constitute: 1,,consitute,,,,digital twin,1
+consumption: 1,,consumption,,,,distributed energy resource,3
+current: 2,,current,,,,district heating network,2
+data: 9,,data,,,,dpsim,1
+degradation: 1,,degradtion,,,,dynamic phasor simulation,1
+"demand profiles."": 1",,demand profiles,,,,electric vehicle,2
+demand response.: 1,,demand response,,,,element,1
+demand-side management.: 1,,demand side management,,,,energy,2
+demand: 2,,demand,,,,energy community,2
+der: 2,,distributed energy resource,,,,energy exchange,1
+dhn: 1,,district heating network,,,,energy management system,2
+diagnostics: 1,,diagnostics,,,,entities,1
+distributed energy resource: 1,,distributed energy resource,,,,environmental conditions,1
+distributed energy resource.: 1,,distributed energy resource,,,,feed,1
+district heating network.: 1,,district heating network,,,,field observation,1
+dpsim: 1,,DPSim,,,,forecasting,1
+dr: 1,,Demand Response,,,,fuel cell hybrid electric vehicle,2
+dr: 1,,Demand Response,,,,gis network,1
+dsm: 1,,demand side management,,,,heat exchanges,1
+dt: 1,,Digital Twin,,,,historical,1
+dynamic phasor simulation: 1,,dynamic phasor simulation,,,,historial consumption,1
+eco: 1,,energy community,,,,humidity,1
+electric vehicle.: 1,,electric vehicle,,,,hydro,1
+elements: 2,,element,,,,industrial,1
+ems: 1,,energy management system,,,,influence,1
+ems/scada: 1,,energy management system,Scada,,,involed,1
+energy community.: 1,,energy community,,,,iot devices,1
+energy exchanges: 1,,energy exchange,,,,irradiance,1
+energy management system.: 1,,energy management system,,,,level,1
+energy: 1,,energy,,,,lightning strikes,1
+energy: 2,,energy,,,,local cycles,1
+entities: 1,,entities,,,,local demand,1
+environmental conditions: 1,,environmental conditions,,,,loss,1
+ev: 1,,electric vehicle,,,,machine status,1
+fchev: 1,,fuel cell hybrid electric vehicle,,,,maintenance records,2
+feed: 1,,feed,,,,manufacturing,1
+field observations: 1,,field observation,,,,manufacturing process,1
+forecasting: 1,,forecasting,,,,measured,1
+fuel cell hybrid electric vehicle.: 1,,fuel cell hybrid electric vehicle,,,,meter,1
+fuel: 1,,fuel,,,,microgrid,1
+gis network elements: 1,,gis network,,,,monitoring equipment,1
+heat exchangers: 1,,heat exchanges,,,,nominal power,1
+historical consumption: 1,,historial consumption,,,,operational,1
+historical: 1,,historical,,,,operational states microgrid,1
+humidity: 2,,humidity,,,,optimisation,2
+"hydro."": 1",,hydro,,,,outdoor temperature,1
+industrial: 1,,industrial,,,,parameters,1
+involved: 1,,involed,,,,power,1
+"iot devices."": 1",,IOT devices,,,,power flow,1
+"irradiance."": 1",,irradiance,,,,power quality,1
+level: 1,,level,,,,predicted,1
+lightning strikes: 1,,lightning strikes,,,,pressure,1
+"load cycles."": 1",,local cycles,,,,production,1
+"local demand."": 1",,local demand,,,,protocol content,1
+losses: 1,,loss,,,,pv,1
+machine status: 1,,machine status,,,,real time,2
+maintenance records: 1,,maintenance records,,,,renewable,2
+"maintenance records."": 1",,maintenance records,,,,scada,1
+manufacturing processes: 1,,manufacturing process,,,,scheduling,1
+manufacturing: 2,,manufacturing,,,,sensitivity,1
+measured: 1,,measured,,,,sensor,2
+meters: 1,,meters,,,,sev scheduling,1
+microgrid: 2,,microgrid,,,,simulation deployment,1
+monitoring equipment: 1,,monitoring equipment,,,,smart electric vehicle charger,2
+nominal power: 1,,nominal power,,,,substation,1
+operational: 2,,operational,,,,support,1
+outdoor temperature: 1,,outdoor temperature,,,,surge arrestors,1
+parameters: 2,,parameters,,,,synthetic,1
+power flow: 1,,power flow,,,,temperature,1
+power quality: 1,,power quality,,,,tower deformation,1
+power: 1,,power,,,,traffic data,1
+predicted: 1,,predicted,,,,transformer heating,1
+pressure: 1,,pressure,,,,transmission system operator,1
+production: 1,,production,,,,types,1
+protection relay records: 1,,protection relay records,,,,voltage,1
+pv: 1,,pv,,,,wave,1
+real-time: 1,,real time,,,,weather,3
+realtime: 3,,real time,,,,wind,1
+renewable: 1,,renewable,,,,wind speed,1
+renewables: 1,,renewable,,,,,
+scada: 1,,scada,,,,,
+scheduling: 1,,scheduling,,,,,
+sensitivity: 1,,sensitivity,,,,,
+sensor: 1,,sensor,,,,,
+sensors: 1,,sensor,,,,,
+sevc: 1,,smart electric vehicle charger,,,,,
+simulation and optimisation of production scenarios before deployment.: 1,,simulation,optimisation,deployment,,,
+smart electric vehicle charger.: 1,,smart electric vehicle charger,,,,,
+substations: 1,,sustation,,,,,
+supports: 1,,support,,,,,
+surge arrestors: 1,,surge arrestors,,,,,
+"synthetic."": 1",,synthetic,,,,,
+temperature: 3,,temperature,,,,,
+to optimise der: 1,,optimisation,,,,,
+tower deformation: 1,,tower deformation,,,,,
+"traffic data."": 1",,traffic data,,,,,
+transformer heating: 1,,transformer heating,,,,,
+tso: 1,,Transmission System Operator,,,,,
+types: 3,,types,,,,,
+voltage: 1,,voltage,,,,,
+wams: 1,,Wide Area Measurement System,,,,,
+wave: 1,,wave,,,,,
+weather: 1,,weather,,,,,
+weather: 2,,weather,,,,,
+"weather."": 1",,weather,,,,,
+wind speed: 1,,wind speed,,,,,
+wind: 1,,wind,,,,,
