@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary / backup files
+~$*
+*.tmp
+*.bkp
+*.dtmp
+
+# Large model weights (do not push to GitHub)
+**/training_stsb_tsdae-bert-base-uncased_word_vocab/
+**/pytorch_model.bin
+**/*.safetensors
+**/model.safetensors

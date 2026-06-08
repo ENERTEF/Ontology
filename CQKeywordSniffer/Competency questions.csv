@@ -1,0 +1,27 @@
+﻿CQ
+
+1.	What is CEL? Community Energy Lab
+2.	What are the types of renewable energy resources? Hydrogen, biomass, biogas, geothermal, solar, wind
+3.	Who are the consumers? Citizens, stakeholders, local authorities, SMEs.
+4.	Which kind of buildings are in the community? School, households, residential buildings, industrial, oil mills, wineries, municipal facilities. 
+5.	What can be monitored in buildings? Energy consumption, thermal performance, indoor air quality
+6.	What type of weather data is collected for building energy analysis? Temperature, humidity, solar radiation, barometric pressure, dew point
+7.	What are the possible types of weather? Warm climate, hotter summers, mild winters, High wind potential
+8.	How are energy production and consumption balanced to avoid energy waste? efficient energy management, storage systems, real-time data monitoring.
+9.	What is DPsim? Dynamic Phasor simulation
+10.	What is CIM? Common Information Model
+11.	What are the units of measurement for the energy demand? MW, kW
+12.	How is the indoor space heating provided? Geo-exchange plant
+13.	How is the indoor space cooling provided? Geo-exchange plant
+14.	How is the electricity provided? PV
+15.	How is the disposed heat from indoor space cooling utilized? Heat recovery systems
+16.	Is indoor space heating or cooling needed? Indoor space cooling
+17.	How is the indoor space cooling provided? Biogas plant
+18.	How is the electricity provided? Windmill
+19.	Which types of waste are processed in the biogas plant? source separated organics (SSO) from households, used fats, vegetable oils, waste from bakeries, stock-farming manure, whey, clover and silage.
+20.	How is the water heating provided? Biomass boiler, district heating plant
+21.	How is the electricity provided? Wind turbines, PV
+22.	How is the electricity provided? Hydrogen valley, PV, wind turbines
+23.	How is the heating needs provided? Hydrogen valley
+
+
