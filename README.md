@@ -1,8 +1,6 @@
 # Ontology Development
 
-The development of ontology is based on the following framework.
-
-The repository is organized as follows:
+This repository is structured according to the main steps of the ontology development framework, which are as follows:
 
 1. [Domain and Scope Determination](#domain-and-scope-determination)
 2. [Requirement Specification](#requirement-specification)
