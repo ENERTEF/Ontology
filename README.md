@@ -1,4 +1,5 @@
-# Ontology Development
+# SECOND: A LLM-Based Ontology Development Framework
+SECOND (SEmi-automatiC ONtology Development) is a modular framework that integrates large language model (LLM) capabilities into the ontology development process for the energy domain. It combines domain-specific language models (EnergyBERT) with ontology-oriented LLM tools, including NeOn-GPT and OntoChat, to support semi-automatic ontology creation and enrichment.
 
 This repository is structured according to the main steps of the ontology development framework, which are as follows:
 
