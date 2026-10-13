@@ -49,3 +49,5 @@ This phase involves identifying existing ontologies and data models relevant to 
 ## Ontology Selection 
 Based on semantic similarity scores from EnergyBERT, the ontologies for next steps are selected. 
 
+## Ontology Matching
+EnergyBERT is further used in this step to identify corresponding classes between a pair of ontologies by combining name-based and structure-based semantic similarity. Name-based matching evaluates the semantic similarity between class names, while structure-based matching considers hierarchical relationships, particularly subclass relationships. The similarity scores from both approaches are integrated using a weighted scoring method to identify potential class correspondences.
