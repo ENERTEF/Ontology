@@ -1,6 +1,10 @@
-# SECOND: A LLM-Based Ontology Development Framework
-SECOND (SEmi-automatiC ONtology Development) is a modular framework that integrates large language model (LLM) capabilities into the ontology development process for the energy domain. It combines domain-specific language models (EnergyBERT) with ontology-oriented LLM tools, including NeOn-GPT and OntoChat, to support semi-automatic ontology creation and enrichment.
+# TEF Ontology in Energy Domain (TEFO)
+TEF Ontology in Energy Domain (TEFO) is developed based on datasets from energy-domain TEF nodes, including RES, EV, TSO, DSO, BUILD, H2 IND, and DHN. It provides a shared semantic representation of heterogeneous datasets to facilitate semantic interoperability across the energy domain, while supporting alignment with established standards such as the Common Information Model (CIM).
 
+The development of TEFO is supported by SECONDSECOND (SEmi-automatiC ONtology Development) is a modular framework that integrates large language model (LLM) capabilities into the ontology development process for the energy domain. It combines domain-specific language models (EnergyBERT) with ontology-oriented LLM tools, including NeOn-GPT and OntoChat, to support semi-automatic ontology creation and enrichment.
+
+
+## Repository structure
 This repository is structured according to the main steps of the ontology development framework, which are as follows:
 
 1. [Domain and Scope Determination](#domain-and-scope-determination)
@@ -11,8 +15,6 @@ This repository is structured according to the main steps of the ontology develo
 6. [Ontology Merging](#ontology-merging)
 7. [Conceptualization](#conceptualization)
 8. [Evaluation](#evaluation)
-
----
 
 ## Domain and Scope Determination 
 The first step in ontology development is to clearly define its purpose, target users, use cases, and requirements. Following the guidelines in the Ontology Requirement Specification Document (ORSD), we focus on domains such as energy, building, weather.
